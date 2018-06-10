@@ -1,0 +1,88 @@
+
+    {
+        "code": 1,
+        "data": [
+            {
+                "id": 1,
+                "name": "组织权限管理",
+                "subdata": [
+                    {
+                        "id": 1,
+                        "name": "员工账号管理",
+                        "type": "subdata"
+                    },  {
+                        "id": 2,
+                        "name": "配置业务字典",
+                        "type": "business_admin"
+                    },  {
+                        "id": 3,
+                        "name": "应用功能管理",
+                        "type": "use_admin"
+                    },  {
+                        "id": 4,
+                        "name": "菜单管理",
+                        "type": "menu"
+                    },  {
+                        "id": 5,
+                        "name": "设置安全策略",
+                        "type": "safe_admin"
+                    }
+                ]
+            },
+            {
+                "name": "我的工作",
+                "id": 2,
+                 "subdata": [
+                    {
+                        "id": 1,
+                        "name": "员工账号管理",
+                        "type": "pelple_admin"
+                    },  {
+                        "id": 2,
+                        "name": "我的申请",
+                        "type": "work"
+                    },  {
+                        "id": 3,
+                        "name": "应用功能管理",
+                        "type": "use_admin"
+                    },  {
+                        "id": 4,
+                        "name": "组织机构管理",
+                        "type": "organization_admin"
+                    },  {
+                        "id": 5,
+                        "name": "设置安全策略",
+                        "type": "safe_admin"
+                    }
+                ]
+            },
+            {
+                "name": "客户管理",
+                "id": 3,
+                 "subdata": [
+                    {
+                        "id": 1,
+                        "name": "员工账号管理",
+                        "type": "pelple_admin"
+                    },  {
+                        "id": 2,
+                        "name": "配置业务字典",
+                        "type": "business_admin"
+                    },  {
+                        "id": 3,
+                        "name": "应用功能管理",
+                        "type": "use_admin"
+                    },  {
+                        "id": 4,
+                        "name": "组织机构管理",
+                        "type": "organization_admin"
+                    },  {
+                        "id": 5,
+                        "name": "设置安全策略",
+                        "type": "safe_admin"
+                    }
+                ]
+            }
+        ],
+        "msg": "success"
+    }
